@@ -6,11 +6,11 @@
   "keywords": ["bot", "heroku", "music-playback", "discord", "javascript", "node", "youtube"],
   "env": {
     "MY_VAR_DISCORD": {
-      "MzkxNTE1ODI5NDQ0OTM1Njgx.DRZ3WA.Ohdi5KGzEPPu9sqlKXm_QRHEams",
+      "MzkxNTE1ODI5NDQ0OTM1Njgx.DRZ3WA.Ohdi5KGzEPPu9sqlKXm_QRHEams"
       "required": true
     },
     "MY_VAR_OPENWEATHERMAP": {
-      "description": "Openweathermap API key",
+      "description": "Openweathermap API key"
       "required": false
     },
     "MY_VAR_YOUTUBE": {
